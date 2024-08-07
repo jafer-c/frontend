@@ -4,7 +4,7 @@ function Home() {
     return (
         <div>
             <h1>Welcome to dashboard</h1>
-            <p>This is a simple Home component.</p>
+            <p>This is a nas-jaf application.</p>
         </div>
     );
 }
